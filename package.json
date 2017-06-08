@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack-dev-server --open"
   },
-  "author": "Tyler McGinnis",
+  "author": "Dev Patel",
   "license": "MIT",
   "babel": {
     "presets": [
